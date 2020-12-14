@@ -1,0 +1,8 @@
+.page-footer {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: linear-gradient(87deg,#11cdef,#1171ef);
+    font-size: .9rem;
+}
